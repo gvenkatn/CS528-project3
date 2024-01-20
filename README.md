@@ -1,6 +1,4 @@
-# Binghamton University, Fall 2023
-
-## CS428/528 Project-3: Proxy Server
+## Multi Threaded Web server with Proxy Server
 
 ### SUMMARY
 
